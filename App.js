@@ -62,8 +62,8 @@ const styles = StyleSheet.create({
     width: 360,
   },
   logo: {
-    height: 160,
-    width: 160,
+    height: 170,
+    width: 170,
     marginTop: 50
   },
   containerNome: {
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     height: 60,
     width: 275,
     borderRadius: 20,
-    marginTop: 20
+    top: 15
   },
   textoNomeLoja: {
     color: '#fff',
